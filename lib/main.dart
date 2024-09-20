@@ -25,7 +25,9 @@ class FirstScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Halaman Pertama'),
+        backgroundColor: Colors.blue,
+        title: const Text('Myfess',
+            style: TextStyle(color: Colors.white)),
         actions: [
           IconButton(
             icon: const Icon(
@@ -43,9 +45,18 @@ class FirstScreen extends StatelessWidget {
           onPressed: () {},
         ),
       ),
-      body: const Center(
-        child: Text('Hello World!'),
-      ),
+      body: Container(
+          color: Colors.blue,
+          width: 325,
+          height: 250,
+          padding: const EdgeInsets.all(15),
+          margin: const EdgeInsets.all(15),
+          child: const Center(
+            child: Text(
+              'Hello World!',
+              style: TextStyle(fontSize: 40, color: Colors.white),
+            ),
+          )),
       floatingActionButton: FloatingActionButton(
         child: const Icon(Icons.add),
         onPressed: () {},
