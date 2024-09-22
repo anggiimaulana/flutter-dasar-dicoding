@@ -23,11 +23,11 @@ class TourismPlace {
 var tourismPlaceList = [
   TourismPlace(
     name: 'Alun-Alun Indramayu',
-    location: 'Jalan Mayjen Sutoyo',
+    location: 'Jalan Mayjen Sutoyo, Kecamatan Indramayu',
     description:
         'Alun-Alun Indramayu adalah ruang terbuka hijau yang menjadi pusat aktivitas masyarakat setempat. Alun-alun ini sering digunakan untuk berbagai acara, seperti upacara, festival, dan pasar malam. Monumen Bambu Runcing yang ikonik berdiri di tengah alun-alun, memperingati perjuangan rakyat Indramayu melawan penjajah.',
-    openDays: 'Open Everyday',
-    openTime: '06:00 - 21:00',
+    openDays: 'Buka Setiap Hari',
+    openTime: '06.00 - 21.00',
     ticketPrice: 'Rp 5000',
     imageAsset: 'images/alun-indramayu.jpg',
     imageUrls: [
@@ -37,29 +37,29 @@ var tourismPlaceList = [
     ],
   ),
   TourismPlace(
-    name: 'Pulau Biawak',
-    location: 'Lembang',
+    name: 'Wisata Pulau Biawak',
+    location: 'Kecamatan Indramayu',
     description:
         'Pulau Biawak adalah destinasi wisata alam yang terletak sekitar 40 km dari pantai utara Indramayu. Pulau ini terkenal dengan mercusuar tua dan populasi biawak yang hidup bebas. Pengunjung dapat menikmati snorkeling, berkemah, dan menjelajahi keindahan alam yang masih asri.',
-    openDays: 'Open Tuesday - Saturday',
-    openTime: '09:00 - 14:30',
-    ticketPrice: 'Rp 20000',
-    imageAsset: 'images/alun-indramayu.jpg',
+    openDays: 'Maret - Juni dan September - Desember',
+    openTime: '24 Jam',
+    ticketPrice: 'Rp. 450.000/orang',
+    imageAsset: 'images/biawak.jpg',
     imageUrls: [
-      'https://media-cdn.tripadvisor.com/media/photo-o/12/6b/63/0b/bosscha-observatory.jpg',
-      'https://media-cdn.tripadvisor.com/media/photo-p/0d/6a/88/9b/photo3jpg.jpg',
-      'https://media-cdn.tripadvisor.com/media/photo-o/11/3f/04/39/p-20171111-110220-largejpg.jpg',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF4dS4PWgX_4z213wwwxExPaWlRVR7vJXbIw&s',
+      'https://th.bing.com/th/id/OIP.oLo3CHUmUegNVWx6dZ08CAHaEe?w=260&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7',
+      'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXRNzZlcq-WzAHoJvKE2Ap89IOgYznEMvZgQ&s',
     ],
   ),
   TourismPlace(
     name: 'Hutan Mangrove Indramayu',
-    location: 'Kota Bandung',
+    location: 'Karangsong, Kecamatan Indramayu',
     description:
         'Hutan Mangrove Karangsong adalah kawasan konservasi yang berfungsi sebagai benteng alami dari abrasi pantai. Selain itu, hutan mangrove ini juga menjadi destinasi ekowisata yang edukatif, menawarkan pemandangan indah dan habitat bagi berbagai jenis burung pantai',
-    openDays: 'Open Everyday',
-    openTime: '24 hours',
-    ticketPrice: 'Free',
-    imageAsset: 'images/alun-indramayu.jpg',
+    openDays: 'Buka Setiap Hari',
+    openTime: '08.00 - 17.00',
+    ticketPrice: 'Rp. 10.000/orang',
+    imageAsset: 'images/mangrove.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-o/0d/c2/e7/e6/quotes-kota-bandung.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-w/17/f4/44/01/jalan-asia-afrika.jpg',
@@ -68,12 +68,12 @@ var tourismPlaceList = [
   ),
   TourismPlace(
     name: 'Agung Fantasi Waterpark',
-    location: 'Padalarang',
+    location: 'Jl. Pantura, Widasari',
     description:
         'Agung Fantasi Waterpark adalah taman rekreasi air yang populer di Indramayu. Terletak di Widasari, waterpark ini menawarkan berbagai wahana air seru seperti seluncuran, kolam renang, dan area bermain anak, menjadikannya tempat yang ideal untuk liburan keluarga.',
-    openDays: 'Open Everyday',
-    openTime: '06:00 - 17:00',
-    ticketPrice: 'Rp 3000',
+    openDays: 'Buka Setiap Hari',
+    openTime: '08:00 - 17:00',
+    ticketPrice: 'Rp 25.000/orang',
     imageAsset: 'images/alun-indramayu.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-o/15/01/d7/4b/p-20180510-153310-01.jpg',
@@ -83,12 +83,12 @@ var tourismPlaceList = [
   ),
   TourismPlace(
     name: 'Tiga Bintang Firdaus',
-    location: 'Kota Bandung',
+    location: 'Desa Jatimulya, Kecamatan Terisi',
     description:
         ' Tiga Bintang Firdaus adalah taman wisata air yang terletak di Desa Jatimulya, Kecamatan Terisi. Tempat ini memiliki berbagai kolam renang, wahana permainan air, dan spot selfie yang instagramable, menjadikannya destinasi favorit untuk rekreasi keluarga.',
-    openDays: 'Open Everyday',
-    openTime: '24 hours',
-    ticketPrice: 'Free',
+    openDays: 'Buka Setiap Hari',
+    openTime: '08.30 - 16.30',
+    ticketPrice: 'Rp. 25.000/orang',
     imageAsset: 'images/alun-indramayu.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-o/08/8b/87/50/bandung-movie-park.jpg',
@@ -98,12 +98,12 @@ var tourismPlaceList = [
   ),
   TourismPlace(
     name: 'Pantai Cemara Indah',
-    location: 'Kota Bandung',
+    location: 'Desa Pabean Udik, Kecamatan Indramayu',
     description:
         'Pantai Cemara Indah menawarkan pemandangan pantai yang asri dengan deretan pohon cemara yang rindang. Pantai ini cocok untuk bersantai, piknik, dan menikmati keindahan matahari terbenam bersama keluarga atau teman-teman.',
-    openDays: 'Open Saturday - Thursday',
-    openTime: '09:00 - 15:30',
-    ticketPrice: 'Rp 3000',
+    openDays: 'Buka Setiap Hari',
+    openTime: '06.00 - 18.00',
+    ticketPrice: 'Rp 5.000/orang',
     imageAsset: 'images/alun-indramayu.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-w/19/1c/8e/f7/geology-museum.jpg',
@@ -113,12 +113,12 @@ var tourismPlaceList = [
   ),
   TourismPlace(
     name: 'Masjid Agung Indramayu',
-    location: 'Lembang',
+    location: 'Jl. Jenderal Sudirman, Kecamatan Indramayu',
     description:
         ' Masjid Agung Indramayu adalah salah satu masjid terbesar di Indramayu, terletak dekat dengan alun-alun. Masjid ini memiliki arsitektur yang megah dan sering menjadi pusat kegiatan keagamaan serta sosial masyarakat setempat.',
-    openDays: 'Open Everyday',
-    openTime: '09:00 - 17:00',
-    ticketPrice: 'Rp 20000',
+    openDays: 'Buka Setiap Hari',
+    openTime: '24 Jam',
+    ticketPrice: 'Gratis',
     imageAsset: 'images/alun-indramayu.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-o/17/f9/ff/f8/floating-market-bandung.jpg',
@@ -128,12 +128,12 @@ var tourismPlaceList = [
   ),
   TourismPlace(
     name: 'Pantai Karangsong',
-    location: 'Ciwidey',
+    location: 'Karangsong, Kecamatan Indramayu',
     description:
         'Pantai Karangsong terkenal dengan hutan mangrovenya yang lebat dan menjadi tempat konservasi ekosistem pesisir. Pengunjung dapat menikmati pemandangan laut, berperahu, dan belajar tentang pentingnya pelestarian lingkungan di kawasan ini.',
-    openDays: 'Open Everyday',
-    openTime: '07:00 - 17:00',
-    ticketPrice: 'Rp 15000',
+    openDays: 'Buka Setiap Hari',
+    openTime: '06.00 - 18.00',
+    ticketPrice: 'Rp 10.000/orang',
     imageAsset: 'images/alun-indramayu.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-o/0b/6e/7c/ce/rocks-sticking-out-of.jpg',
@@ -146,9 +146,9 @@ var tourismPlaceList = [
     location: 'Ciwidey',
     description:
         'Pantai Tebing Patrol menawarkan pemandangan tebing-tebing batu yang menjulang di sepanjang garis pantai. Tempat ini cocok untuk penggemar fotografi dan petualangan, dengan pemandangan alam yang menakjubkan dan suasana yang tenang.',
-    openDays: 'Open Everyday',
-    openTime: '24 hours',
-    ticketPrice: 'Rp 20000',
+    openDays: 'Desa Patrol',
+    openTime: '06.00 - 18.00',
+    ticketPrice: 'Rp 5.000/orang',
     imageAsset: 'images/alun-indramayu.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-o/1a/e0/7f/9c/kampung-cai-ranca-upas.jpg',
