@@ -136,7 +136,7 @@ var tourismPlaceList = [
     ticketPrice: 'Rp 15000',
     imageAsset: 'images/alun-indramayu.jpg',
     imageUrls: [
-      'https://media-cdn.tripadvisor.com/media/photo-o/0b/6e/7c/ce/rocks-sticking-out-of.jpg',Pantai Tebing Patrol menawarkan pemandangan tebing-tebing batu yang menjulang di sepanjang garis pantai. Tempat ini cocok untuk penggemar fotografi dan petualangan, dengan pemandangan alam yang menakjubkan dan suasana yang tenang.
+      'https://media-cdn.tripadvisor.com/media/photo-o/0b/6e/7c/ce/rocks-sticking-out-of.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-p/0b/35/30/14/white-crater.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-o/0a/8b/9a/79/2945-t00572-www-initempatwisat.jpg',
     ],
